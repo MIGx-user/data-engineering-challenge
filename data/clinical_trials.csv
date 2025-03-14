@@ -1,0 +1,21 @@
+trial_id,trial_name,study_start_date,study_end_date
+111,High Dose - Trial 111,2023-01-20,2023-04-21
+116,Low Dose - Trial 116,2023-01-02,2023-03-21
+112,Long-Term Study - Trial 112,2023-02-27,2023-06-27
+103,High Dose - Trial 103,2023-01-11,2023-04-11
+118,Low Dose - Trial 118,2023-01-18,2023-03-22
+108,Combination Therapy - Trial 108,2023-02-04,2023-03-25
+102,Long-Term Study - Trial 102,2023-01-19,2023-05-15
+105,Long-Term Study - Trial 105,2023-01-16,2023-04-11
+109,Long-Term Study - Trial 109,2023-01-24,2023-04-19
+104,Long-Term Study - Trial 104,2023-01-13,2023-04-05
+107,High Dose - Trial 107,2023-02-27,2023-04-10
+117,Combination Therapy - Trial 117,2023-01-23,2023-03-19
+106,New Drug Evaluation - Trial 106,2023-02-24,2023-05-23
+101,High Dose - Trial 101,2023-01-18,2023-02-20
+110,Combination Therapy - Trial 110,2023-02-17,2023-06-17
+100,High Dose - Trial 100,2023-02-04,2023-05-15
+113,New Drug Evaluation - Trial 113,2023-02-06,2023-04-15
+119,Low Dose - Trial 119,2023-01-11,2023-03-03
+115,Low Dose - Trial 115,2023-02-10,2023-03-16
+114,Combination Therapy - Trial 114,2023-02-05,2023-03-15
