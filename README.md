@@ -9,3 +9,6 @@ The first one is a programming problem, where you are expected to set up a small
 The second part are open-ended questions on different aspects of architecture and high-level decisions you may have to take on hypothetical scenarios. You can write down the answers to them in any popular file format (like Word, Markdown, Asciidoc, etc.) and optionally export it to a PDF. Just make sure you give us the raw file.
 
 Keep in mind that you’re not expected to complete the totality of this assignment. If you don’t complete some bullet points that’s OK, it will help us guide the follow-up interview where we’ll ask you about what you’ve given to us and why you did (or didn’t) take those decisions.
+
+## Final result
+You are expected to commit all the components from your solution to a git repository and share it with ´´´MIGx-user´´´ so we can review your challenge.
