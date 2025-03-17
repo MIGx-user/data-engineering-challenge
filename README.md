@@ -11,4 +11,4 @@ The second part are open-ended questions on different aspects of architecture an
 Keep in mind that you’re not expected to complete the totality of this assignment. If you don’t complete some bullet points that’s OK, it will help us guide the follow-up interview where we’ll ask you about what you’ve given to us and why you did (or didn’t) take those decisions.
 
 ## Final result
-You are expected to commit all the components from your solution to a git repository and share it with ´´´MIGx-user´´´ so we can review your challenge.
+You are expected to commit all the components from your solution to a git repository and share it with **MIGx-user** so we can review your challenge.
